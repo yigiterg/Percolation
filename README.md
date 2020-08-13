@@ -6,5 +6,6 @@ The model. We model a percolation system using an n-by-n grid of sites. Each sit
 ![](https://user-images.githubusercontent.com/55719720/90126760-d4865000-dd6c-11ea-96bb-d91448777e40.JPG)
 ![](https://user-images.githubusercontent.com/55719720/90126860-fd0e4a00-dd6c-11ea-8545-be082d76b925.JPG)
 ![](https://user-images.githubusercontent.com/55719720/90126961-1dd69f80-dd6d-11ea-92ef-b3b4b6e242a9.JPG)
+![](https://user-images.githubusercontent.com/55719720/90127060-43fc3f80-dd6d-11ea-8139-e7d70183074d.JPG)
 
 
